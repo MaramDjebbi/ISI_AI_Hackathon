@@ -10,8 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@fortawesome/react-fontawesome": "github:fortawesome/react-fontawesome",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@react-three/drei": "^9.115.0",
+    "@react-three/fiber": "^8.17.10",
+    "@types/three": "0.152.1",
     "axios": "^1.7.7",
+    "leva": "^0.9.35",
+    "three": "0.153.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.28.0"
